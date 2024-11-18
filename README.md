@@ -1,6 +1,6 @@
 # AA Outdoor Cashier App
 
-A Cashier Mobile App for rental outdoor activity.
+A Cashier Mobile App for rental outdoor activity made with Flutter.
 
 ## Feature
 
